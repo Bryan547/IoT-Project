@@ -19,4 +19,4 @@ Membangun sistem monitoring lingkungan dengan sensor IoT untuk memantau paramete
 
 
 ### Use Case Diagram
-!(https://ibb.co/hd1G8WM)
+![Use Case](https://github.com/Bryan547/IoT-Project/blob/main/assets/img/use_case.jpg?raw=true)
